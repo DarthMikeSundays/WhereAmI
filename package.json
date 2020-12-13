@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "private": "true",
   "scripts": {
-    "watch": "tsc -w"
+    "watch": "tsc -w",
+    "build": "yarn && tsc"
   },
   "devDependencies": {
     "typescript": "^4.1.2"
