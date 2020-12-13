@@ -1,0 +1,11 @@
+{
+  "name": "WhereAmI",
+  "version": "1.0.0",
+  "private": "true",
+  "scripts": {
+    "watch": "tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  }
+}
